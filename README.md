@@ -1,6 +1,6 @@
 # FRNet
 
-Title:A YOLOv11-based Lightweight Effective Object Detector Network for Classroom Action Recognition
+A YOLOv11-based Lightweight Effective Object Detector Network for Classroom Action Recognition
 
 # Requirements
   ![Python >=3.8.16](https://img.shields.io/badge/Python->=3.8.16-yellow.svg)    ![torch >=2.2.2](https://img.shields.io/badge/Pytorch->=2.2.2-blue.svg)
@@ -24,6 +24,8 @@ Due to database requirements in this paper, we provide forever restricted links 
 - [STBD-08](https://pan.baidu.com/s/1p9yygeBTTutSykQpaoVZ2Q?pwd=254u)
 - [SCB-dataset3](https://pan.baidu.com/s/18VymPILVSuXFrtv3s6I8-Q?pwd=fdcb)
 
+Thanks to the authors for providing the open access STBD-08 and SCB-dataset3 dataset.
+
 # Running
 ## Modify configs
 You can modify the configuration of the parameters in the XXX.yaml for different dataset.
@@ -38,4 +40,6 @@ Models and results will be saved at folder: 'runs/dataset_name/'.
 
 ## Results
 The results of the trained model can be downloaded directly from this URL:[FRNet/runs](https://pan.baidu.com/s/1e3CSHxpqgf3Dq7vjaquwGw?pwd=jet2)
+
+
 
