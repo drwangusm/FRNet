@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 if __name__ == '__main__':
     # 加载一个模型权重
-    model = YOLO('Wbest.pt')  # 加载自定义的模型权重作评估
+    model = YOLO('best.pt')  # 加载自定义的模型权重作评估
  
    	# 评估
     metrics = model.val()  # 不需要传参，这里定义的模型会自动在训练的数据集上作评估
