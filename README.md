@@ -1,6 +1,6 @@
 # FRNet
 
-A YOLOv11-based Lightweight Effective Object Detector Network for Classroom Action Recognition
+Title:A YOLOv11-based Lightweight Effective Object Detector Network for Classroom Action Recognition
 
 # Requirements
   ![Python >=3.8.16](https://img.shields.io/badge/Python->=3.8.16-yellow.svg)    ![torch >=2.2.2](https://img.shields.io/badge/Pytorch->=2.2.2-blue.svg)
@@ -18,13 +18,11 @@ The datasets we used are as follows:
 - [STBD-08](https://ieeexplore.ieee.org/abstract/document/10185142)
 - [SCB-dataset3](https://link.springer.com/chapter/10.1007/978-3-031-46311-2_4)
 
-The raw dataset was downloaded from the dataset github page https://github.com/Whiffe/SCB-dataset (Accessed on 1th Nov 2024).
+The source dataset was downloaded from the dataset github page https://github.com/Whiffe/SCB-dataset (Accessed on 1th Nov 2024).
 
 Due to database requirements in this paper, we provide forever restricted links access to the reprocessed dataset :
 - [STBD-08](https://pan.baidu.com/s/1p9yygeBTTutSykQpaoVZ2Q?pwd=254u)
 - [SCB-dataset3](https://pan.baidu.com/s/18VymPILVSuXFrtv3s6I8-Q?pwd=fdcb)
-
-
 
 # Running
 ## Modify configs
