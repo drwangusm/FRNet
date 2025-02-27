@@ -3,11 +3,11 @@ warnings.filterwarnings('ignore')
 from ultralytics import YOLO
 
 if __name__ == '__main__':
-    model = YOLO('best.pt') # select your model.pt path
+    model = YOLO('/final/FRNet/runs/train/SCB3/yolo11/weights/best.pt') # select your model.pt path
     model.predict(source='/final/datasets/SCB-Dataset/SCB3.yaml',
                   imgsz=640,
-                  project='runs/detect',
-                  name='SCB3-yolov10n',
+                  project='runs/detect/SCB3',
+                  name='yolo11',
                   save=True,
                   # conf=0.2,
                   # iou=0.7,
