@@ -1,6 +1,6 @@
 # FRNet
 
-A YOLOv11-based Lightweight Effective Object Detector Network for Classroom Action Recognition
+Enhancing Classroom Behavior Recognition with Lightweight Multi-Scale Feature Fusion
 
 # Requirements
   ![Python >=3.8.16](https://img.shields.io/badge/Python->=3.8.16-yellow.svg)    ![torch >=2.2.2](https://img.shields.io/badge/Pytorch->=2.2.2-blue.svg)
