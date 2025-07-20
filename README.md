@@ -1,6 +1,7 @@
 # FRNet
 
 Enhancing Classroom Behavior Recognition with Lightweight Multi-Scale Feature Fusion
+(Doi:10.32604/cmc.2025.066343)
 
 # Requirements
   ![Python >=3.8.16](https://img.shields.io/badge/Python->=3.8.16-yellow.svg)    ![torch >=2.2.2](https://img.shields.io/badge/Pytorch->=2.2.2-blue.svg)
