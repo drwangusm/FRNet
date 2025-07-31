@@ -42,5 +42,20 @@ Models and results will be saved at folder: 'runs/dataset_name/'.
 ## Results
 The results of the trained model can be downloaded directly from this URL:[FRNet/runs](https://pan.baidu.com/s/1e3CSHxpqgf3Dq7vjaquwGw?pwd=jet2)
 
-
+## Citation
+Please cite the following paper if you use this repository in your reseach.
+```
+@Article{cmc.2025.066343,
+AUTHOR = {Chuanchuan Wang, Ahmad Sufril Azlan Mohamed, Xiao Yang , Hao Zhang , Xiang Li, Mohd Halim Bin Mohd Noor},
+TITLE = {Enhancing Classroom Behavior Recognition with Lightweight Multi-Scale Feature Fusion},
+JOURNAL = {Computers, Materials \& Continua},
+VOLUME = {},
+YEAR = {},
+NUMBER = {},
+PAGES = {{pages}},
+URL = {http://www.techscience.com/cmc/online/detail/23901},
+ISSN = {1546-2226},
+DOI = {10.32604/cmc.2025.066343}
+}
+```
 
