@@ -51,8 +51,8 @@ JOURNAL = {Computers, Materials \& Continua},
 VOLUME = {85},
 YEAR = {2025},
 NUMBER = {1},
-PAGES = {{1-20}},
-URL = {http://www.techscience.com/cmc/online/detail/23901},
+PAGES = {855--874},
+URL = {http://www.techscience.com/cmc/v85n1/63535},
 ISSN = {1546-2226},
 DOI = {10.32604/cmc.2025.066343}
 }
